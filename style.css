@@ -72,24 +72,23 @@ p {
 .saw {
     font-style:italic;
 }
-.taka{
+.taka {
     font-size: 30px;
     font-weight: 700;
     margin: 0;
-    padding: 43px 25px 41px 24px;
+    padding-top: 42px;
 }
-.taka-box{
+.taka-box {
     margin: auto;
     height: 123px;
     width: 135px;
-    background-color: #FAFAFA;
+    background-color: #f8f6f6;
     border-radius: 5px;
     text-align: center;
 }
-.color-box{
-    background-color:rgb(236, 238, 212);
-}
-.color-box h1{
+
+.color-box {
+    background-color: rgb(236, 238, 212);
     border: 2px solid rgb(168, 177, 42);
     border-radius: 5px;
     color: rgb(168, 177, 42);
